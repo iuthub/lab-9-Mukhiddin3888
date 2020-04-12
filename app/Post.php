@@ -41,8 +41,8 @@ class Post
     {
         $posts = [
             [
-                'title' => 'Learning Laravel',
-                'content' => 'This blog post will get you right on track with Laravel!'
+                'title' => 'Mukhiddin Laravel project 9',
+                'content' => 'Inha University in Tashkent!'
             ],
             [
                 'title' => 'Something else',
